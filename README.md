@@ -11,4 +11,4 @@ A custom-built music website designed for d-bless a former class mate and a frie
 
 *License:*
 
-- [Insert license information, e.g. proprietary, MIT License, etc.]
+- [MIT License](https://raw.githubusercontent.com/Bartwel27/D-BLESS/main/LICENSE)
